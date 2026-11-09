@@ -4,8 +4,6 @@ At Red Hat, I design and guide development of the three flagship Ansible Automat
 
 I build with AI coding agents every day, on problems that come up in real work. At Red Hat that means operational tooling for the training organization: tools that make the work go faster while keeping quality high, and my colleagues are the first users. The rest of this page is what I build outside that role.
 
-[**LinkedIn**](https://www.linkedin.com/in/edparenti)
-
 ---
 
 ### GitHub activity
@@ -13,6 +11,8 @@ I build with AI coding agents every day, on problems that come up in real work. 
 <!-- contributions:start -->
 About 13,100 GitHub contributions in the last year across my two accounts (10,067 commits, 2,029 pull requests, 229 reviews, 706 issues), most of them in private repositories. Counted 2026-11-09.
 <!-- contributions:end -->
+
+[**LinkedIn**](https://www.linkedin.com/in/edparenti)
 
 ---
 
