@@ -1,9 +1,6 @@
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://eparenti.github.io/assets/banner-dark.svg">
-<img alt="Ed Parenti. Tools and research for people who build with AI." src="https://eparenti.github.io/assets/banner-light.svg" width="100%">
-</picture>
+**Tools and research for people who build with AI.**
 
-I am a Senior Content Architect at Red Hat. I design and guide development of the three flagship Ansible Automation Platform courses (fundamentals, network, and Windows automation), and have been a developer on other Red Hat courses such as OpenShift Virtualization, Ceph, and RHEL. Before Red Hat I managed network, security, and infrastructure teams, then worked as a hands-on product manager who came up with product ideas, built prototypes, and wrote specs. I also co-founded a web development shop and ran a franchise.
+At Red Hat, I design and guide development of the three flagship Ansible Automation Platform courses (fundamentals, network, and Windows automation), and have been a developer on other Red Hat courses such as OpenShift Virtualization, Ceph, and RHEL. Before Red Hat I managed network, security, and infrastructure teams, then worked as a hands-on product manager who came up with product ideas, built prototypes, and wrote specs. I also co-founded a web development shop and ran a franchise.
 
 I build with AI coding agents every day, on problems that come up in real work. At Red Hat that means operational tooling for the training organization: tools that make the work go faster while keeping quality high, and my colleagues are the first users. The rest of this page is what I build outside that role.
 
