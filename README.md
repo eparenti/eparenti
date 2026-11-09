@@ -16,7 +16,7 @@ About 13,100 GitHub contributions in the last year across my two accounts (10,06
 
 ---
 
-### Problems and what I built to address them
+### What I've built
 
 #### Accessibility
 
