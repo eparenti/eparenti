@@ -21,7 +21,8 @@ About 13,100 GitHub contributions in the last year across my two accounts (10,06
 I build AI tools that help Red Hat's training team create, test, and fix courses faster without lowering quality. My colleagues are the first users. The tools run on Claude Code, Codex, and Gemini, and the code is internal.
 
 - **Exercise QA.** An engine that reads a packaged course, derives the lab steps and expected checks, runs them on a live lab, and verifies grading. It catches broken labs before release and replaces slow manual review.
-- **Review and bug workflows.** Technical-lead review, best-practices review, content bug triage and fix tied to the issue tracker, and a multi-model critique with a shared rubric.
+- **Automated review.** Reviews course content the way a technical lead would, checks it against best practices, and has several AI models critique it against a shared rubric.
+- **Bug management workflows.** Triages content bugs and fixes them in the course source, with each step tied to the issue tracker.
 - **Team plugins.** I wrote the first version of every skill my team ships in the training organization's plugin marketplace, and hardened those plugins against command injection, path traversal, symbolic-link escapes, and false passing results.
 - **Model gateway CLI.** Delegates model work to an internal gateway from the command line, with configurable prices and token budgets.
 
