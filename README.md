@@ -6,6 +6,10 @@ I build with AI coding agents every day, on problems that come up in real work. 
 
 [**LinkedIn**](https://www.linkedin.com/in/edparenti)
 
+---
+
+### GitHub activity
+
 <!-- contributions:start -->
 About 13,100 GitHub contributions in the last year across my two accounts (10,067 commits, 2,029 pull requests, 229 reviews, 706 issues), most of them in private repositories. Counted 2026-11-09.
 <!-- contributions:end -->
