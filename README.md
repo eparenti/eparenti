@@ -84,9 +84,9 @@ I am a member of the training organization's AI leadership group, helping shape 
 
 ---
 
-### Current work
+### What I'm building
 
-What I am building now. Each line says what it is and where the code lives.
+Each line says what it is and where the code lives.
 
 - **[converg](https://github.com/coverg/converg)** (coverg) An Ansible collection that verifies network state after automation runs. It renders the intended change, reads the live network, and refuses to call the run done until the two agree. [brief](https://eparenti.github.io/products/converg.html)
 - **[continuo](https://github.com/continuo-dev)** (continuo-dev) An advisor with guardrails for people who build with AI. It checks what assistants claim against evidence, queues decisions for the human, and meters tokens and cost. [brief](https://eparenti.github.io/products/continuo.html) · [how it works](https://eparenti.github.io/products/continuo-guide.html)
