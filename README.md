@@ -18,7 +18,7 @@ About 13,100 GitHub contributions in the last year across my two accounts (10,06
 
 ### Work at Red Hat
 
-The tools run on Claude Code, Codex, and Gemini, with evals, guardrails, and CI gates. The code is internal. What it does:
+I build AI tools that help Red Hat's training team create, test, and fix courses faster without lowering quality. My colleagues are the first users. The tools run on Claude Code, Codex, and Gemini, and the code is internal.
 
 - **Exercise QA.** An engine that reads a packaged course, derives the lab steps and expected checks, runs them on a live lab, and verifies grading. It catches broken labs before release and replaces slow manual review.
 - **Review and bug workflows.** Technical-lead review, best-practices review, content bug triage and fix tied to the issue tracker, and a multi-model critique with a shared rubric.
