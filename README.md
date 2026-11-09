@@ -2,7 +2,7 @@
 
 At Red Hat, I design and guide development of the three flagship Ansible Automation Platform courses (fundamentals, network, and Windows automation), and have been a developer on other Red Hat courses such as OpenShift Virtualization, Ceph, and RHEL. Before Red Hat I managed network, security, and infrastructure teams, then worked as a hands-on product manager. I came up with product ideas, built prototypes, wrote specs, launched products, and grew their install base.
 
-I build with AI coding agents every day, on problems that come up in real work. At Red Hat that means operational tooling for the training organization: tools that make the work go faster while keeping quality high, and my colleagues are the first users. The rest of this page is what I build outside that role.
+I build with AI coding agents every day, on problems that come up in real work. At Red Hat that means operational tooling for the training organization: tools that make the work go faster while keeping quality high, and my colleagues are the first users. The projects further down are what I build outside that role.
 
 ---
 
@@ -13,6 +13,19 @@ About 13,100 GitHub contributions in the last year across my two accounts (10,06
 <!-- contributions:end -->
 
 [**LinkedIn**](https://www.linkedin.com/in/edparenti)
+
+---
+
+### Work at Red Hat
+
+The tools run on Claude Code, Codex, and Gemini, with evals, guardrails, and CI gates. The code is internal. What it does:
+
+- **Exercise QA.** An engine that reads a packaged course, derives the lab steps and expected checks, runs them on a live lab, and verifies grading. It catches broken labs before release and replaces slow manual review.
+- **Review and bug workflows.** Technical-lead review, best-practices review, content bug triage and fix tied to the issue tracker, and a multi-model critique with a shared rubric.
+- **Team plugins.** I wrote the first version of every skill my team ships in the training organization's plugin marketplace, and hardened those plugins against command injection, path traversal, symbolic-link escapes, and false passing results.
+- **Model gateway CLI.** Delegates model work to an internal gateway from the command line, with configurable prices and token budgets.
+
+I am a member of the training organization's AI leadership group, helping shape tool strategy, adoption, and responsible-use practice.
 
 ---
 
@@ -67,19 +80,6 @@ About 13,100 GitHub contributions in the last year across my two accounts (10,06
 | [continuo](https://github.com/continuo-dev)<br>*Organizes your AI agents and models into a product studio* | Building a product takes many skills, such as research, design, engineering, and testing. One AI agent with a prompt covers few of them, and nothing checks whether it did what it says it did. | continuo is a production studio for building products with AI. It runs a line of roles modeled on real jobs, and you bring your own agents and models. It checks what agents claim against evidence, such as a commit or a passing test, and shows you what needs your decision. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://eparenti.github.io/assets/state-not-yet-released-dark.svg"><img alt="not yet released" src="https://eparenti.github.io/assets/state-not-yet-released-light.svg" height="22"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://eparenti.github.io/assets/state-active-dark.svg"><img alt="active" src="https://eparenti.github.io/assets/state-active-light.svg" height="22"></picture> | [brief](https://eparenti.github.io/products/continuo.html) · [how it works](https://eparenti.github.io/products/continuo-guide.html) |
 | [field-manual](https://github.com/ostinato-forge/field-manual)<br>*Documents the method behind every project here* | Most advice on building with AI agents is opinion. It rarely says what order to do things in or what to hand the agent, so good results are hard to repeat. | field-manual is the method behind every project on this page, written so someone else can follow it. Each practice is backed by evidence, such as published research or a recorded incident, and opinions are labeled. It includes a step-by-step method, an operating contract an agent loads at the start of a session, and templates. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://eparenti.github.io/assets/state-open-source-read-only-dark.svg"><img alt="open source · read only" src="https://eparenti.github.io/assets/state-open-source-read-only-light.svg" height="22"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://eparenti.github.io/assets/state-maintained-dark.svg"><img alt="maintained" src="https://eparenti.github.io/assets/state-maintained-light.svg" height="22"></picture> | [brief](https://eparenti.github.io/products/field-manual.html) |
 
-
----
-
-### Work at Red Hat
-
-The tools run on Claude Code, Codex, and Gemini, with evals, guardrails, and CI gates. The code is internal. What it does:
-
-- **Exercise QA.** An engine that reads a packaged course, derives the lab steps and expected checks, runs them on a live lab, and verifies grading. It catches broken labs before release and replaces slow manual review.
-- **Review and bug workflows.** Technical-lead review, best-practices review, content bug triage and fix tied to the issue tracker, and a multi-model critique with a shared rubric.
-- **Team plugins.** I wrote the first version of every skill my team ships in the training organization's plugin marketplace, and hardened those plugins against command injection, path traversal, symbolic-link escapes, and false passing results.
-- **Model gateway CLI.** Delegates model work to an internal gateway from the command line, with configurable prices and token budgets.
-
-I am a member of the training organization's AI leadership group, helping shape tool strategy, adoption, and responsible-use practice.
 
 ---
 
