@@ -76,7 +76,6 @@ The tools run on Claude Code, Codex, and Gemini, with evals, guardrails, and CI 
 
 - **Exercise QA.** An engine that reads a packaged course, derives the lab steps and expected checks, runs them on a live lab, and verifies grading. It catches broken labs before release and replaces slow manual review.
 - **Review and bug workflows.** Technical-lead review, best-practices review, content bug triage and fix tied to the issue tracker, and a multi-model critique with a shared rubric.
-- **Course change logs.** Reports the differences between two versions of a course. Managers use them for internal communication and go-to-market documents.
 - **Team plugins.** I wrote the first version of every skill my team ships in the training organization's plugin marketplace, and hardened those plugins against command injection, path traversal, symbolic-link escapes, and false passing results.
 - **Model gateway CLI.** Delegates model work to an internal gateway from the command line, with configurable prices and token budgets.
 
