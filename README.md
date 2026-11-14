@@ -1,8 +1,8 @@
+At Red Hat, I design and guide development of the three flagship Ansible Automation Platform courses (fundamentals, network, and Windows automation), and have been a developer on other Red Hat courses such as Ceph, RHEL, and OpenShift Virtualization. Before Red Hat I managed network, security, and infrastructure teams, then worked as a hands-on product manager. I came up with product ideas, built prototypes, wrote specs, launched products, and grew their install base.
+
 **Tools and research for people who build with AI.**
 
 I build with AI coding agents every day, on problems that come up in real work. At Red Hat that means operational tooling for the training course development team: tools that make the work go faster while keeping quality high. Outside that role, I build the tools and research projects listed below.
-
-At Red Hat, I design and guide development of the three flagship Ansible Automation Platform courses (fundamentals, network, and Windows automation), and have been a developer on other Red Hat courses such as OpenShift Virtualization, Ceph, and RHEL. Before Red Hat I managed network, security, and infrastructure teams, then worked as a hands-on product manager. I came up with product ideas, built prototypes, wrote specs, launched products, and grew their install base.
 
 ---
 
