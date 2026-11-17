@@ -18,11 +18,11 @@ About 13,100 GitHub contributions in the last year across my two accounts (10,06
 
 ### Work at Red Hat
 
-I build AI tools that help Red Hat's training course development team create, test, and fix courses faster without lowering quality. My colleagues are the first users. The tools run on Claude Code, Codex, Cursor, and Gemini, and the code is internal.
+I build tools that help my course development team create, test, and fix courses faster without lowering quality. My colleagues are the first users. The tools run on Claude Code, Codex, Cursor, and Gemini, and the code is internal.
 
-- **Exercise QA.** An engine that reads a packaged course, derives the lab steps and expected checks, runs them on a live lab, and verifies grading. It catches broken labs before release and replaces slow manual review.
-- **Automated review.** Reviews course content, checks it against best practices, and has several AI models critique it against a shared rubric.
-- **Bug management workflows.** Finds and fixes content bugs in a built course book, verifies each one, then triages and fixes them in the course source, with each step tied to the Jira bug issue.
+- **Automated QA in a live lab environment** An engine that reads a packaged course, derives the lab steps and expected checks, runs them on a live lab, and verifies grading. It catches broken labs before release and replaces slow manual review.
+- **Automated content review.** Reviews course content, checks it against best practices, and has several AI models critique it against a shared rubric.
+- **Bug fixing and bug management workflows.** Finds and fixes content bugs in a built course book, verifies each one, then triages and fixes them in the course source, with each step tied to the Jira bug issue.
 - **Team plugins.** I wrote the first version of each skill my team ships in the training organization's plugin marketplace, and hardened those plugins against command injection, path traversal, symbolic-link escapes, and false passing results.
 
 I am a member of the training organization's AI leadership group, helping shape tool strategy, adoption, and responsible-use practice.
