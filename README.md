@@ -2,7 +2,7 @@ At Red Hat, I design and guide the development of Ansible Automation Platform co
 
 I build with AI coding agents every day, on problems that come up in real work. At Red Hat that means operational tooling for the training course development team: tools that make the work go faster while keeping quality high. Outside that role, I build the tools and research projects listed below.
 
-[**LinkedIn**](https://www.linkedin.com/in/edparenti)
+[_LinkedIn_](https://www.linkedin.com/in/edparenti)
 ---
 
 ### GitHub activity
