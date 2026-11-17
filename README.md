@@ -31,7 +31,7 @@ I am a member of the training organization's AI leadership group, helping shape 
 
 ---
 
-### What I've built
+### Open Source Projects
 
 #### Accessibility
 
@@ -52,7 +52,6 @@ I am a member of the training organization's AI leadership group, helping shape 
 | Project | The problem | The solution | State | More |
 |---|---|---|---|---|
 | [agent-efficiency](https://github.com/agent-efficiency/agent-efficiency)<br>*Cut wasted work by your coding agent and record proof that changes were tested* | AI coding agents waste time and money. They repeat commands that already failed, reread files they already have, and say a task is done before testing it. The person paying for the session rarely sees where the waste happens. | agent-efficiency cuts wasted turns and records proof that a change was tested. It runs as a plugin inside Claude Code, Codex, and Cursor and points out repeated work and failures as they happen. It saves each test result tied to the exact code it ran on, makes no model calls, and sends nothing over the network. | **Active development**<br>Open source, contributions welcome | [product overview](https://eparenti.github.io/products/agent-efficiency.html) · [technical overview](https://eparenti.github.io/products/agent-efficiency-guide.html) |
-| [enmaas-cli](https://github.com/enmaas-cli/enmaas-cli)<br>*Send bulk AI work to another model and keep it out of your session* | Coding assistants do bulk work inside the session, such as sorting hundreds of findings or reading a long document. Every later step re-sends that text, so the cost keeps growing, and an expensive model does work a cheaper one could handle. | enmaas-cli sends that work to a model gateway, writes every answer to a file, and returns a short receipt. On an 80-item rule-checking task, the free default model matched the in-session accuracy at about 5 percent of the cost. An output guard keeps the full answers out of the assistant's session unless you allow a read. | **Active development**<br>Open source, issues welcome | [product overview](https://eparenti.github.io/products/enmaas-cli.html) |
 | [verified-dispatch](https://github.com/verified-dispatch/verified-dispatch)<br>*Hand work to a builder agent and verify what it did* | When one AI agent hands work to another, it can't trust the report it gets back. To check, it reads the builder's whole transcript, which costs time and money, and it still has to check by hand. A stalled builder keeps running until someone notices. | verified-dispatch lets a lead agent hand off work and trust the result. It runs the builder agent under watch, checks every claim against the git history, and reruns the project's tests itself. The lead agent reads a receipt of at most 40 lines, and a stalled builder is stopped automatically. | **Active development**<br>Open source, read only | [product overview](https://eparenti.github.io/products/verified-dispatch.html) |
 
 #### Coordinating AI agents
