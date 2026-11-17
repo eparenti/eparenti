@@ -11,7 +11,7 @@
 ### GitHub activity
 
 <!-- contributions:start -->
-About 13,100 GitHub contributions in the last year across my two accounts (10,067 commits, 2,029 pull requests, 229 reviews, 706 issues), most of them in private repositories. Counted 2026-11-09.
+13,351 GitHub contributions in the last year across my two accounts (including 10,302 commits, 2,076 pull requests, 211 reviews, 723 issues), most of them in private repositories. Counted 2026-11-17.
 <!-- contributions:end -->
 
 ---
@@ -27,7 +27,8 @@ I build tools that help my course development team create, test, and fix courses
 
 I am a member of the training organization's AI leadership group, helping shape tool strategy, adoption, and responsible-use practice.
 
-[_LinkedIn_](https://www.linkedin.com/in/edparenti)
+[LinkedIn](https://www.linkedin.com/in/edparenti)
+
 ---
 
 ### What I've built
