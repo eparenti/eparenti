@@ -1,8 +1,9 @@
-At Red Hat, I design and guide the development of Ansible Automation Platform courses (fundamentals, network, and Windows automation), and have been a developer on other Red Hat courses such as Ceph, RHEL, and OpenShift Virtualization. Before Red Hat I managed engineering teams, then worked as a hands-on product manager where I came up with product ideas, built prototypes, wrote specs, launched products, and grew their install base.
+At Red Hat, I design and guide the development of Ansible Automation Platform courses (fundamentals, network, and Windows automation), and have been a developer on other Red Hat courses such as Ceph, RHEL, and OpenShift Virtualization.
+
+Before Red Hat I managed engineering teams, then worked as a hands-on product manager where I came up with product ideas, built prototypes, wrote specs, launched products, and grew their install base.
 
 I build with AI coding agents every day, on problems that come up in real work. At Red Hat that means operational tooling for the training course development team: tools that make the work go faster while keeping quality high. Outside that role, I build the tools and research projects listed below.
 
-[_LinkedIn_](https://www.linkedin.com/in/edparenti)
 ---
 
 ### GitHub activity
@@ -24,6 +25,7 @@ I build tools that help my course development team create, test, and fix courses
 
 I am a member of the training organization's AI leadership group, helping shape tool strategy, adoption, and responsible-use practice.
 
+[_LinkedIn_](https://www.linkedin.com/in/edparenti)
 ---
 
 ### What I've built
