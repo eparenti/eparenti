@@ -11,7 +11,7 @@
 ### GitHub activity
 
 <!-- contributions:start -->
-13,582 GitHub contributions in the last year across my two accounts (including 10,515 commits, 2,091 pull requests, 213 reviews, 724 issues), most of them in private repositories. Counted 2026-11-22.
+13,506 GitHub contributions in the last year across my two accounts (including 10,453 commits, 2,080 pull requests, 210 reviews, 724 issues), most of them in private repositories. Counted 2026-11-23.
 <!-- contributions:end -->
 
 ---
